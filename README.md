@@ -14,13 +14,11 @@ This repository contains a complete implementation of a Decision Tree Classifier
 - [How to Use](#how-to-use)
 - [Examples](#examples)
 - [Customization](#customization)
-- [License](#license)
 
 ---
 
 ## Project Structure
 
-.
 ├── DecisionTree.py # Decision Tree Classifier implementation
 ├── train.py # Script to train and test the Decision Tree
 └── README.md # Project documentation
